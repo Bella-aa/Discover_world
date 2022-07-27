@@ -1,3 +1,5 @@
+from Question import Question
+
 question_prompts = [
     "Which waterfall is called the smoke that thunders?\n(A) Victoria Falls\n(B) Niagra Falls\n(C) Iguazu Falls\n(D) Angel Falls\n\n",
 
